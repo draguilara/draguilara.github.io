@@ -1,4 +1,11 @@
+---
+permalink: /
 
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 ¡Hola! I'm Diego Aguilar, a PhD student in Electrical and Computer Engineering at Purdue University working under the advisorship of Dr. Dionysios Aliprantis. 
 
