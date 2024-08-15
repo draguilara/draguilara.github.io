@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Graduate Researcher <br> PhD Student <br> Power & Energy Systems"
   location         : "Indiana, USA"
-  employer         : Purdue University # "<a href="https://engineering.purdue.edu/ECE">Purdue University</a>"
+  employer         : "<a href="https://engineering.purdue.edu/ECE">Purdue University</a>"
   uri              : # URL
   email            : "aguila73@purdue.edu" 
 
