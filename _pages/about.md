@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Diego Aguilar, MSc | Home"
+title: "Diego Aguilar, MSc - Home"
 author_profile: true
 redirect_from: 
   - /about/
