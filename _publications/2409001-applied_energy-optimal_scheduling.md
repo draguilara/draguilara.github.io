@@ -2,7 +2,7 @@
 title: "Optimal scheduling of renewable energy microgrids: A robust multi-objective approach with machine learning-based probabilistic forecasting"
 collection: publications
 category: manuscripts
-permalink: /publication/2409001-appliedenergy-optimalscheduling
+permalink: /publication/2409001-applied_energy-optimal_scheduling
 excerpt: 'This work presents an innovative approach that incorporates ML probabilistic forecasting into rolling horizon strategies for the economic dispatch - unit commitment  problem, which are two techniques not often merged in the current state of the art.'
 date: 2024-09-01
 venue: 'Applied Energy'
