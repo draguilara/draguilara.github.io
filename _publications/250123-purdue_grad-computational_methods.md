@@ -2,7 +2,7 @@
 title: "Computational Methods for Renewable Energies: A Multi-Scale Perspective"
 collection: publications
 category: manuscripts
-permalink: /publication/250123-purdue_grad-computational_methods.md
+permalink: /publication/250123-purdue_grad-computational_methods
 excerpt: 'This dissertation focuses on studying and developing software tools to support clean energy transitions across different scales - from local microgrids to international energy corridors. '
 date: 2024-09-01
 venue: 'Purdue University, MSc dissertation'
