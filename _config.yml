@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Diego Aguilar"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Diego Aguilar"
 description              : &description "Personal academic website for Diego Aguilar, MSc"
